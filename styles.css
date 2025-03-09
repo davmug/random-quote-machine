@@ -1,0 +1,30 @@
+#quote-box {
+  width: 400px;
+}
+#quote-box #text {
+  min-height: 300px;
+  font-size: 1.25rem;
+  overflow-y: auto;
+  font-family: "Passion One", sans-serif;
+  font-weight: 400;
+  gap: 20px;
+}
+#quote-box .text-quote {
+  font-size: 4em;
+  font-weight: 400;
+}
+#quote-box #author {
+  font-style: italic;
+  font-family: "Passion One", sans-serif;
+  font-weight: 400;
+}
+#quote-box #tweet-quote svg {
+  vertical-align: middle;
+  margin-right: 0.25rem;
+}
+
+body {
+  font-family: "Passion One", sans-serif;
+}
+
+/*# sourceMappingURL=styles.css.map */
